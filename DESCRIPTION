@@ -1,0 +1,16 @@
+Package: STEPS
+Type: Package
+Title: Seoncdary Trait (ST) Analysis in Extreme Phenotype Sequencing
+        (EPS)
+Version: 0.1
+Date: 2018-04-17
+Authors: Wenjian Bi <wenjian.bi@stjude.org>; Guolian Kang
+        <guolian.kang@stjude.org>
+Maintainer: Wenjian Bi <wenjian.bi@stjude.org>
+Description: Functions to conduct genetic association analyses of secondary traits in extreme phenotype sequencing
+License: GPL (>= 2)
+Depends: R (>= 3.2.5)
+LazyData: TRUE
+RoxygenNote: 6.0.1
+NeedsCompilation: no
+Packaged: 2018-05-02 21:44:23 UTC; wbi1
