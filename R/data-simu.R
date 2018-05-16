@@ -17,11 +17,11 @@
 #' @details
 #' For continuous secondary traits, dataset is simulated by the following model
 #' \deqn{Z = g0+g1[1]G+g1[2]X+e1}
-#' \deqn{Y = b0+b1[1]G+b1[2]X+b1[3]Z+e2}
+#' \deqn{Y = b0+b1[1]G+b1[2]X+b3Z+e2}
 #' For binary secondary traits, dataset is simulated by the following model
 #' \deqn{Z = g0+g1[1]G+g1[2]X+e1}
 #' \deqn{D = I(Z>cutoff)}
-#' \deqn{Y = b0+b1[1]G+b1[2]X+b1[3]Z+e2}
+#' \deqn{Y = b0+b1[1]G+b1[2]X+b3Z+e2}
 #' where 'Z'/'D' is continuous/binary secondary trait, 'Y' is primary trait, 'X' is covariate following standard normal distribution,
 #' 'G' is genotype following HWE with MAF of 'maf', error term 'e1'/'e2' follows normal distribution with a mean of 0 and standard deviation of 'sd1'/'sd2',
 #' only subjects with primary phenotype at top/bottom quantile of 'qntl' are retained as extreme phenotype sampling design.
