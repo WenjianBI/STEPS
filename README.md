@@ -14,4 +14,4 @@ library(STEPS)
 
 ### Reference
 
-Wenjian Bi, Yun Li, Matthew P. Smeltzer, Guimin Gao, Shengli Zhao, Guolian Kang, STEPS: An Efficient Prospective Likelihood Approach to Genetic Association analyses of Secondary Traits in Extreme Phenotype Sequencing. Biostatistics (In revision)
+Wenjian Bi, Yun Li, Matthew P. Smeltzer, Guimin Gao, Shengli Zhao, Guolian Kang, STEPS: An Efficient Prospective Likelihood Approach to Genetic Association analyses of Secondary Traits in Extreme Phenotype Sequencing. Biostatistics (accepted)
