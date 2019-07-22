@@ -10,7 +10,7 @@ library(STEPS)
 ?STEPS.snp  # manual of genetic association analyses in STEPS package
 ```
 
-
+Please do not hesitate to contact me (wenjianb@umich.edu) if you meet any problem. Suggestions or comments are also welcome.
 
 ### Reference
 
